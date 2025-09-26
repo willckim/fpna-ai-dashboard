@@ -116,12 +116,9 @@ Outputs appear in the data/ folder.
 ## 💼 Business Value
 This project demonstrates:
 
-Variance analysis automation (replacing manual Excel).
+- Variance analysis automation (replacing manual Excel).
+- Forecasting & risk identification for FP&A teams.
+- AI-powered reporting for executives.
+- Interactive BI dashboards with export-ready CSVs and PPTX decks.
 
-Forecasting & risk identification for FP&A teams.
-
-AI-powered reporting for executives.
-
-Interactive BI dashboards with export-ready CSVs and PPTX decks.
-
-Perfect for roles in Finance, Data Analytics, or Business Transformation.
+Perfect for roles in **Finance, Data Analytics, or Business Transformation**.
